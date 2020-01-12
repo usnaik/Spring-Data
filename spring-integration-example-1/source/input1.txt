@@ -1,2 +1,3 @@
-asd
-asd
+A simple text file with 3 lines 
+This is second line in Text file
+And the last line.
