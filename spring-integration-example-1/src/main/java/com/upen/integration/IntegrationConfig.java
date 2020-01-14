@@ -16,7 +16,7 @@ public class IntegrationConfig {
 
     @Autowired
     private Transformer transformer;
-
+    
     @Bean
     public IntegrationFlow integrationFlow() {
         return IntegrationFlows.from(fileReader(),
