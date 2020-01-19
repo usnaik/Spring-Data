@@ -25,3 +25,18 @@ DynamoDBSaveExpression - you can use this to adding multiple expressions for you
 For example, you may want to save only if an attribute has a particular value.
 
 ExpectedValue - it represent a condition to be compared with an attribute value
+
+
+Sample Data for Get
+{
+    "firstName": "Tim",
+    "lastName": "Cook",
+    "age": "45",
+    "address": {
+        "addressLine1": "1155 Fall River Circle",
+        "addressLine2": "3rd Cross, 5th Main",
+        "state": "CO",
+        "city": "Westminster",
+        "zipCode": "80602"
+    }
+}
