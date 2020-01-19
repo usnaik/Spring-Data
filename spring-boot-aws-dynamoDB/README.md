@@ -27,7 +27,7 @@ For example, you may want to save only if an attribute has a particular value.
 ExpectedValue - it represent a condition to be compared with an attribute value
 
 
-Sample Data for Get
+Sample Data for Post request
 {
     "firstName": "Tim",
     "lastName": "Cook",
